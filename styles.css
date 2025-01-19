@@ -1,7 +1,7 @@
 .holder{
 	display: flex;
 	justify-content: center;
-	align-item: cneter;
+	align-items: cneter;
 	width: 100vw;
 	height: 100vh;
 }
